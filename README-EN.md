@@ -1,6 +1,6 @@
 # USPB
 
-[Chinese](https://qige.dev) | [Chinese README](../README.md) | [Original author's project (USPB)](https://github.com/jneeee/uspb)
+[Chinese](https://qige.dev) | [Chinese README](./README.md) | [Original author's project (USPB)](https://github.com/jneeee/uspb)
 
 This code means: provide a link to the website that supports Chinese, a link to the English README, and a link to the original author's project.
 
