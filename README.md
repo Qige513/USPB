@@ -10,7 +10,7 @@ USPB是**URL缩短器 + 粘贴板**的缩写。
 
 [![使用Fresh构建](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
 
-[演示链接](https://uspb.deno.dev/)
+[演示链接(原作者)](https://uspb.deno.dev/)
 
 ## 使用方法
 
